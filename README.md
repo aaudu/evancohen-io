@@ -9,13 +9,13 @@ My really rough travel itinerary. I'll flush this out more over the coming week
 - Jun 10 - July 13: `Eastern Europe` (TBD)
 - July 14-29: Backpacking in `Colorado`
 - Aug 1-17: `Alaska` Adventure
-- ???
+- Kenya???
 - Sept 13-29: `South East Asia`
-- ???
+- Nigeria???
 - Oct 20-Nov 8: `Australia`
 - Nov 8-15: `Seattle`
 - Nov 20-Dec 10: Sailing `Bay Area` -> `Mexico` (Island hopping)
-- ???
+- Morocco???
 - Jan 1-30: `Seattle`? Tear down an old school bus/RV and install a maker/fabircation lab
 - Feb 1-?: `USA` cross country road trip
 
